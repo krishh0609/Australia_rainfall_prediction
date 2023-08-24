@@ -1,22 +1,5 @@
 # Australia_rainfall_prediction
 
-
-
-https://github.com/krishh0609/Australia_rainfall_prediction/assets/135126143/ece7efbf-8df6-470c-8d7b-21133e47b7cc
-
-
-
-https://github.com/krishh0609/Australia_rainfall_prediction/assets/135126143/70ebae07-233a-4821-a938-7b01ffb3c8e3
-
-
-
-https://github.com/krishh0609/Australia_rainfall_prediction/assets/135126143/9415dc1b-0182-4ec5-8313-4dda2dc88758
-
-
-
-https://github.com/krishh0609/Australia_rainfall_prediction/assets/135126143/cf9033b4-3e4f-4074-9366-03ec79a4738f
-
-
-
-https://github.com/krishh0609/Australia_rainfall_prediction/assets/135126143/133f316c-a163-458a-99f4-16b1970c755d
-
+![WhatsApp Video 2023-08-25 at 1 01 39 AM](https://github.com/krishh0609/Australia_rainfall_prediction/assets/135126143/d8c8d1a3-84fb-4053-8189-187a5d9f0102)
+![WhatsApp Video 2023-08-25 at 12 56 09 AM](https://github.com/krishh0609/Australia_rainfall_prediction/assets/135126143/2441fe3a-5330-4913-9bfa-8ac437e453da)
+![WhatsApp Video 2023-08-25 at 12 55 47 AM (1)](https://github.com/krishh0609/Australia_rainfall_prediction/assets/135126143/8de40c45-2f08-4ecb-87a0-69fbbda63fc1)
